@@ -1,0 +1,14 @@
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\bin\Debug\net8.0\Parcial 2 - Agustín López.exe
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\bin\Debug\net8.0\Parcial 2 - Agustín López.deps.json
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\bin\Debug\net8.0\Parcial 2 - Agustín López.runtimeconfig.json
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\bin\Debug\net8.0\Parcial 2 - Agustín López.dll
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\bin\Debug\net8.0\Parcial 2 - Agustín López.pdb
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\obj\Debug\net8.0\Parcial 2 - Agustín López.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\obj\Debug\net8.0\Parcial 2 - Agustín López.AssemblyInfoInputs.cache
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\obj\Debug\net8.0\Parcial 2 - Agustín López.AssemblyInfo.cs
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\obj\Debug\net8.0\Parcial 2 - Agustín López.csproj.CoreCompileInputs.cache
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\obj\Debug\net8.0\Parcial 2 - Agustín López.dll
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\obj\Debug\net8.0\refint\Parcial 2 - Agustín López.dll
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\obj\Debug\net8.0\Parcial 2 - Agustín López.pdb
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\obj\Debug\net8.0\Parcial 2 - Agustín López.genruntimeconfig.cache
+C:\Users\ablopez\source\repos\Parcial 2 - Agustín López\Parcial 2 - Agustín López\obj\Debug\net8.0\ref\Parcial 2 - Agustín López.dll
